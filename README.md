@@ -1,2 +1,3 @@
 # AI-Mini-project
-This project aims to develop an automated resume screening and ranking system using Natural Language Processing (NLP) and machine learning techniques
+This project aims to develop an automated resume screening and ranking system using Natural Language Processing (NLP) and machine learning techniques.The system will help recruiters and hiring managers efficiently process large volumes of resumes, identify the most qualified candidates for a given job description, and streamline the overall recruitment process.
+By leveraging NLP, the system will extract key information from resumes, such as skills, experience, and education. It will then compare these attributes to a target job description and generate a similarity score, indicating how well a candidate's profile matches the job requirements 😊💪👩‍💻 
